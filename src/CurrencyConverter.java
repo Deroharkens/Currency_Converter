@@ -65,7 +65,7 @@ public class CurrencyConverter {
 
     public static void main(String[] args) {
         // Replace with your actual API key
-        String apiKey = "YOUR_API_KEY_HERE";
+        String apiKey = "50f0b0665a2475baae420ab0";
         CurrencyConverter converter = new CurrencyConverter(apiKey);
         Scanner scanner = new Scanner(System.in);
 
